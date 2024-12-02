@@ -1,0 +1,2 @@
+public class prg20 {
+}
